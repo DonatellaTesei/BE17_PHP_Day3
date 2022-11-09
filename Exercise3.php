@@ -4,7 +4,7 @@
 
 /* The function should return the highest value from the array. */
 
-/* $numeric_array = array(10, 20, 30, 40, 50, 60, 70, 80, 90, 100); */
+
 $numeric_array = array();
 function arrayConstructor($max, $ar, $it)
 {
